@@ -1,3 +1,3 @@
 # business-card-react-vite-
 
-| 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo]
+| 01  | [My business card](https://superb-unicorn-c857fb.netlify.app/)                             | [Live Demo]
